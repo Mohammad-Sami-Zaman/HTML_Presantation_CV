@@ -1,58 +1,91 @@
-# 🎬 Mohammad Sami Zaman — Interactive Video CV
+# Mohammad Sami Zaman — Interactive Video CV
 
-An interactive, browser-based **Video CV / Digital Resume** designed to present professional experience, projects, technical skills, and career goals in a modern visual format.
+An interactive **Video CV / Portfolio Presentation** showcasing professional profile, backend development experience, Django projects, technical skills, machine learning work, and career goals.
 
-The project uses a minimal dark-blue interface with animated sections, timed captions, progress tracking, and interactive playback controls.
+🌐 **Live Video CV:**
+https://mohammad-sami-zaman.github.io/HTML_Presantation_CV/
 
 ---
 
 ## 👨‍💻 About
 
-**Mohammad Sami Zaman** is a Computer Science and Engineering graduate from **BRAC University**, specializing in **backend development with Python and Django**.
+**Mohammad Sami Zaman**
+Computer Science & Engineering — **BRAC University**
 
-The Video CV highlights experience in building full-stack Django applications, working with multiple databases, and applying machine learning using TensorFlow and OpenCV.
+**Backend Developer — Python & Django**
 
----
+This project presents a short, interactive professional CV designed to highlight backend development experience, full-stack Django applications, database knowledge, and machine learning experience.
 
-## ✨ Features
-
-* 🎥 Interactive Video CV presentation
-* ⏱️ Approximately **80-second** presentation
-* ▶️ Play / Pause functionality
-* 🔄 Restart presentation
-* 📊 Animated progress bar
-* 📝 Timed captions synchronized with the presentation
-* 🎨 Modern dark-themed UI
-* ✨ Smooth CSS animations
-* 📱 Responsive layout
-* 🧑‍💻 Project showcase
-* 🗄️ Database and Machine Learning skills section
-* 📬 Contact and portfolio information
-
-The interface includes playback controls, a progress indicator, and a timer showing the current position in the presentation.
+The presentation is approximately **1 minute 20 seconds** long and includes interactive playback controls.
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Featured Projects
 
-### Frontend
+### 01 — Quiz Portal
 
-* HTML5
-* CSS3
-* JavaScript
-* CSS Animations
-* Responsive Design
+A Django-based quiz management application designed with secure authentication and role-based access.
 
-### Fonts
+**Key Features:**
 
-* Space Grotesk
-* IBM Plex Sans
-* IBM Plex Mono
+* Secure user authentication
+* Role-based access control
+* Quiz management
+* Automated scoring
+* Participant ranking
 
-### Backend / Programming
+---
+
+### 02 — ManageCash
+
+A personal finance management application focused on tracking financial transactions and monitoring income and expenses.
+
+**Key Features:**
+
+* Income tracking
+* Expense tracking
+* Transaction management
+* Live financial dashboard
+* Personal finance monitoring
+
+---
+
+### 03 — Job Portal
+
+A web application connecting employers and job seekers through a centralized job management platform.
+
+**Key Features:**
+
+* Employer and job seeker functionality
+* Job posting
+* Job applications
+* Resume management
+* Application status tracking
+
+---
+
+## 🧠 Machine Learning Case Study
+
+The Video CV also showcases experience beyond Django through a **CNN-based image classification project for crop pest and disease detection**.
+
+### Technologies Used
+
+* TensorFlow
+* Keras
+* OpenCV
+* Scikit-learn
+
+The project focuses on applying deep learning and computer vision techniques to classify crop-related pests and diseases from images.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
 
 * Python
 * Django
+* Full-Stack Django Applications
 
 ### Databases
 
@@ -60,189 +93,178 @@ The interface includes playback controls, a progress indicator, and a timer show
 * MySQL
 * SQLite
 
-### Machine Learning
+### Machine Learning & Computer Vision
 
 * TensorFlow
 * Keras
 * OpenCV
 * Scikit-learn
+* CNN-based Image Classification
 
-The CV specifically highlights MongoDB, MySQL, SQLite, TensorFlow, OpenCV, and Scikit-learn.
+### Frontend
 
----
-
-## 🚀 Featured Projects
-
-### 1. Quiz Portal
-
-A Django-based quiz platform featuring:
-
-* Secure authentication
-* Role-based access
-* Automated scoring
-* Participant management
-
-### 2. ManageCash
-
-A personal finance management system providing:
-
-* Income tracking
-* Expense tracking
-* Transaction management
-* Financial dashboard
-
-### 3. Job Portal
-
-A job-management platform connecting employers and job seekers with:
-
-* Job postings
-* Job applications
-* Resume management
-* Application status tracking
-
-These three projects are presented as the primary project showcase in the Video CV.
+* HTML
+* CSS
+* JavaScript
 
 ---
 
-## 🤖 Machine Learning Project
+## 🎬 Video CV Features
 
-The Video CV also highlights a **CNN-based crop pest and disease detection system**.
+The website is designed as an interactive presentation rather than a traditional static CV.
 
-### Technologies
+### Features
 
-* TensorFlow
-* Keras
-* OpenCV
-* Convolutional Neural Networks
+* 🎥 Interactive Video CV presentation
+* ▶️ Play functionality
+* ⏸️ Pause functionality
+* 🔄 Restart functionality
+* ⏱️ Presentation timer
+* 📊 Progress tracking
+* 📝 Timed presentation sections
+* 📱 Responsive presentation design
+* 🎨 Minimal professional CV interface
 
-The system focuses on image classification for detecting crop pests and diseases.
+### Presentation Duration
+
+**Total Duration:** Approximately **01:20**
+
+---
+
+## 📋 Presentation Flow
+
+The Video CV follows a structured professional presentation:
+
+1. **Professional Introduction**
+2. **Backend Developer Profile**
+3. **Full-Stack Django Applications**
+4. **Quiz Portal**
+5. **ManageCash**
+6. **Job Portal**
+7. **Databases & Machine Learning**
+8. **CNN Crop Pest & Disease Detection**
+9. **Career Objective**
+10. **Contact Information**
 
 ---
 
 ## 🎯 Career Objective
 
-Currently seeking an **internship or entry-level backend engineering position** focused on building reliable and scalable systems while continuing to develop expertise as a Django developer.
+Seeking an **internship or entry-level backend engineering role** focused on building reliable and scalable systems while continuing to grow as a Django developer.
 
 ---
 
-## 🎨 Design
+## 🌐 Connect
 
-The project follows a technical/editorial visual style with:
+### Portfolio
 
-* Dark navy background
-* Blue grid system
-* Amber accent color
-* Minimal card-based layout
-* Monospace technical labels
-* Animated content transitions
-* Responsive typography
+https://mohammad-samizaman.github.io/Portfolio
 
-The styling uses CSS variables for the primary navy, blue, paper, and amber color palette.
+### GitHub
 
----
+https://github.com/Mohammad-Sami-Zaman
 
-## ▶️ How to Run
+### LinkedIn
 
-No backend server or package installation is required.
+https://linkedin.com/in/sami-zaman-0b714a358
 
-### 1. Clone the repository
+### Email
 
-```bash
-git clone https://github.com/Mohammad-Sami-Zaman/your-repository-name.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd your-repository-name
-```
-
-### 3. Run the CV
-
-Simply open:
-
-```text
-Sami_Zaman_Video_CV.html
-```
-
-in any modern web browser.
-
-Alternatively, use **VS Code Live Server** for local development.
+[samizaman987@gmail.com](mailto:samizaman987@gmail.com)
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-Video-CV/
+HTML_Presantation_CV/
 │
-├── Sami_Zaman_Video_CV.html
+├── index.html
+├── assets/
+│   ├── images/
+│   └── ...
+│
 └── README.md
 ```
 
-The current implementation is largely self-contained: the HTML includes the page structure, CSS styling, JavaScript presentation logic, and the profile image as embedded data.
+> The exact project structure may vary depending on the files included in the GitHub repository.
 
 ---
 
-## 🎮 Controls
+## 💻 Run Locally
 
-| Control      | Function                                          |
-| ------------ | ------------------------------------------------- |
-| `RESTART`    | Restarts the presentation                         |
-| `PAUSE`      | Pauses the presentation                           |
-| Progress Bar | Shows presentation progress and allows navigation |
-| Timer        | Displays current time and total duration          |
+### 1. Clone the Repository
 
-The presentation defines individual scene durations and calculates their cumulative start times through JavaScript.
-
----
-
-## 📋 Presentation Flow
-
-```text
-Introduction
-     ↓
-Projects
-     ↓
-Technical Skills
-     ↓
-Machine Learning
-     ↓
-Career Objective
-     ↓
-Contact
+```bash
+git clone https://github.com/Mohammad-Sami-Zaman/HTML_Presantation_CV.git
 ```
 
-The presentation uses timed caption segments covering the introduction, projects, technologies, career objective, portfolio, and closing message.
+### 2. Open the Project
+
+Navigate to the project directory:
+
+```bash
+cd HTML_Presantation_CV
+```
+
+### 3. Run the Website
+
+Since this is a frontend HTML/CSS/JavaScript project, it can be opened directly in a browser.
+
+Alternatively, use **VS Code Live Server** for local development.
 
 ---
 
-## 📬 Contact
+## 🌍 Deployment
 
-**Portfolio:**
-mohammad-samizaman.github.io/Portfolio
+The Video CV is deployed using **GitHub Pages**.
 
-**GitHub:**
-github.com/Mohammad-Sami-Zaman
+### Live Website
 
-**LinkedIn:**
-linkedin.com/in/sami-zaman-0b714a358
+https://mohammad-sami-zaman.github.io/HTML_Presantation_CV/
 
-**Email:**
-[samizaman987@gmail.com](mailto:samizaman987@gmail.com)
-
-These contact details are included in the final section of the Video CV.
+The deployed version provides direct access to the interactive CV presentation without requiring a backend server.
 
 ---
 
-## 📄 License
+## 🎨 Design Concept
 
-This project is intended as a personal portfolio and digital CV.
+The Video CV follows a clean, professional presentation style designed to communicate technical experience quickly.
 
-© 2026 Mohammad Sami Zaman. All rights reserved.
+The structure emphasizes:
+
+* Professional identity
+* Backend specialization
+* Project experience
+* Technical skills
+* Machine learning experience
+* Career objective
+* Contact information
+
+---
+
+## 📌 Project Purpose
+
+This project was created to provide a more engaging alternative to a traditional text-based CV.
+
+Instead of presenting information through a static document, the website combines:
+
+**Professional CV + Project Showcase + Interactive Presentation**
+
+into a single web-based experience.
+
+---
+
+## 📜 License
+
+This project is intended for personal portfolio and professional presentation purposes.
+
+© 2026 **Mohammad Sami Zaman**. All rights reserved.
 
 ---
 
 ## ⭐ Support
 
-If you find this project interesting, consider giving the repository a ⭐ on GitHub.
+If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
+
+**Thank you for visiting my Video CV!**
